@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_home"
+        android:title="libra"
+        android:icon="@drawable/libra"/>
+
+    <item
+        android:id="@+id/action_explore"
+        android:title="like"
+        android:icon="@drawable/like"/>
+
+    <item
+        android:id="@+id/action_me"
+        android:title="pisces"
+        android:icon="@drawable/pisces"/>
+
+    <item
+        android:id="@+id/action_you"
+        android:title="virgo"
+        android:icon="@drawable/virgo"/>
+
+</menu>

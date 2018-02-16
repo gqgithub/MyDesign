@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android_Project\Project\MyDesign\app\build\intermediates\exploded-aar\com.ashokvarma.android\bottom-navigation-bar\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9f9891b9c9f74687dca5cf98ba82ea9e8a200e91">
+        <dex dex="E:\Android_Project\Project\MyDesign\app\build\intermediates\pre-dexed\debug\classes-cc0ea2d2a60d3c06bef8cf3681f95c64c0b30529.jar" />
+    </item>
+
+</items>
